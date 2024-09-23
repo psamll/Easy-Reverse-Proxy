@@ -14,12 +14,12 @@ export interface Proxy {
 let PROXYS: Proxy[] = [
     {
         domain: "www.example1.com",
-        url: "https://youtube.com/",
+        url: "www.youtube.com/",
         enable: true
     },
     {
         domain: "www.example2.com",
-        url: "https://google.com/",
+        url: "www.google.com/",
         enable: true
     }
 ];
