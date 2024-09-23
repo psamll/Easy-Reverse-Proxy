@@ -13,7 +13,7 @@ export interface Proxy {
 // 代理
 let PROXYS: Proxy[] = [
     {
-        domain: "www.example1.com",
+        domain: "google-sand-rho.vercel.app",
         url: "www.youtube.com/",
         enable: true
     },
